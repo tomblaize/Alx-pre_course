@@ -1,5 +1,5 @@
 #!/bin/bash
 
 
-echo "School is closed"
- update_script
+echo "The school is open!"
+
